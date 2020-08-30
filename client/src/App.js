@@ -18,7 +18,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>Hello from!</h1>
+        <h1>Kamil FrontEnd!</h1>
         <h1>{this.state.response.body}</h1>
       </div>
     );
